@@ -1,0 +1,11 @@
+{
+  "alertRate" : 4,
+  "sleepRate" : 1,
+  "authorId" : 168475117020512256,
+  "loginPath" : "/html/body/div/div[2]/div/div/div/div/form/div/div/div[1]/div[2]/button[2]",
+  "checkPath" : "/html/body/div/div[2]/div/div[2]/div/div/div/div/div[2]/div[2]/main/form/div[2]",
+  "passwordPath" : "/html/body/div/div[2]/div/div/div/div/form/div/div/div[1]/div[2]/div[2]/div/input",
+  "usernamePath" : "/html/body/div/div[2]/div/div/div/div/form/div/div/div[1]/div[2]/div[1]/div/div[2]/input",
+  "channel" : [
+  ]
+}
