@@ -1,5 +1,5 @@
 ## Project-WS3K
-> Receive a notification when a Discord user begins typing in a Discord server.
+> Receive a notification when a Discord user begins typing in a Discord server. Spring 2021.
 
 ### Installation
 ```
