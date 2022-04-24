@@ -1,7 +1,7 @@
 ## [`Project-WS3K`](http://lxrbckl.com/Project-WS3K)
 > Receive a notification when a Discord user begins typing in a Discord server. Spring 2021.
 
-### Installation
+### `Installation`
 ```
 pip3 install selenium
 pip3 install discord.py
