@@ -1,4 +1,4 @@
-## [Project-WS3K](http://lxrbckl.com/Project-WS3K)
+## [`Project-WS3K`](http://lxrbckl.com/Project-WS3K)
 > Receive a notification when a Discord user begins typing in a Discord server. Spring 2021.
 
 ### Installation
