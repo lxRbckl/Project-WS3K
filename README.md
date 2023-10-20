@@ -1,2 +1,2 @@
-## [`Project-WS3K`](http://lxrbckl.com/Project-WS3K)
-> Receive a notification when a Discord user begins typing in a Discord channel. Spring 2021.
+### `Project-WS3K`
+> Get alerted when a Discord user starts typing in a specific Discord channel. Spring 2021.
